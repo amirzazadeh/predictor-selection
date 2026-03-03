@@ -33,7 +33,7 @@ This repository demonstrates practical predictor selection workflows for regress
 
 ## Materials
 
-- **Slides**: [slides in English] (Slides_Eng_Predictor_Selection_Regression_Models_Ali_Mirzazadeh.pptx)
+- **Slides**: [slides in English](Slides_Eng_Predictor_Selection_Regression_Models_Ali_Mirzazadeh.pptx)
 - **Scripts**: see the `Code` section below
 
 ---
@@ -49,8 +49,7 @@ Common commands/features used:
 - Collinearity diagnostics: `collin`
 - Goodness-of-fit test: `estat gof`
 
-Do-file(s): *(Stata_Predictor_Selection_Strategies_in_Regression_Models.do)
-*
+Do-file(s): [Stata Code](Stata_Predictor_Selection_Strategies_in_Regression_Models.do)
 
 ### R
 
@@ -69,7 +68,7 @@ R script(s): *(add link(s) when available)*
 
 ### Stata scripts
 
-- *(Stata_Predictor_Selection_Strategies_in_Regression_Models.do)*
+- [Stata Code](Stata_Predictor_Selection_Strategies_in_Regression_Models.do)
 
 ### R scripts
 
