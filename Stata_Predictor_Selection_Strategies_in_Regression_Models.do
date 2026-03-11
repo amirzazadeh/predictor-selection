@@ -1,6 +1,6 @@
 ********************************************************************************
-* Simple cleaning, labeling, recoding, grouping for variables:
-* age, education, gender, race, poverty, usborn, maritalstatus, hpv, hdl, bmi
+* Selecting predictors in regression models using conceptual/theory-driven 
+* and data-driven strategies in Stata
 ********************************************************************************
 
 clear all

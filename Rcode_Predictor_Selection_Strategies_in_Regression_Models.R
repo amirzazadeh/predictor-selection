@@ -1,6 +1,6 @@
 ############################################################
 # Selecting predictors in regression models using conceptual/theory-driven 
-# and data-driven strategies in Stata
+# and data-driven strategies in R
 ############################################################
 
 # Set working directory (edit path as needed)
