@@ -49,7 +49,9 @@ Common commands/features used:
 - Collinearity diagnostics: `collin`
 - Goodness-of-fit test: `estat gof`
 
-Do-file(s): [Stata Code](Stata_Predictor_Selection_Strategies_in_Regression_Models.do)
+Do-file: [Stata Code](Stata_Predictor_Selection_Strategies_in_Regression_Models.do)
+R-Code: [R Code](Rcode_Predictor_Selection_Strategies_in_Regression_Models.R)
+
 
 ### R
 
@@ -57,7 +59,7 @@ Packages / functions commonly used:
 
 - Logistic regression: `glm(family = binomial)`
 - Stepwise selection: `step()`
-- Collinearity diagnostics: `car::vif()` (if used)
+- Collinearity diagnostics: `car::vif()`
 - Goodness-of-fit test: `hoslem.test`
 
 R script(s): *(add link(s) when available)*
@@ -72,6 +74,6 @@ R script(s): *(add link(s) when available)*
 
 ### R scripts
 
-- *(add links to `.R` files)*
+- [R Code](Rcode_Predictor_Selection_Strategies_in_Regression_Models.R)
 
 ---
