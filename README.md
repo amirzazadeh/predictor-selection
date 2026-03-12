@@ -34,6 +34,7 @@ This repository demonstrates practical predictor selection workflows for regress
 ## Materials
 
 - **Slides**: [slides in English](Slides_Eng_Predictor_Selection_Regression_Models_Ali_Mirzazadeh.pptx)
+- **Slides**: [slides in Vietnamese](Slides_Viet_Predictor_Selection_Regression_Models_Ali_Mirzazadeh.pptx)
 - **Scripts**: see the `Code` section below
 
 ---
